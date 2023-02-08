@@ -1,0 +1,27 @@
+{
+	"data": {
+		"train_file": "train.csv",
+		"test_file": "test.csv",
+		"columns1": [
+			"wavefile"
+		],
+		"columns2": [
+			"tp"
+		],
+		"normalise": true,
+		"delta": 0.05,
+		"n_step": 1,
+    	"n_input": 1200,
+		"n_random": 800,
+		"cut_test_dely": 20
+	},
+	"training": {
+		"epochs": 30,
+		"batch_size": 64
+	},
+	"model": {
+    	"learning_rate": 0.001,
+    	"n_lstm_out": 2400,
+		"output_dir": "output"
+	}
+}
