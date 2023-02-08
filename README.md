@@ -19,7 +19,7 @@ image文件夹：国内用户会存在该readme图片不显示情况，可以下
 output文件夹: 训练好的模型以及结果图输出路径<br />
 config.json文件：程序运行时所需参数<br />
 <br />
-##3.程序运行（ps：国内用户图片有不显示情况，可以下载程序打包查看image文件夹）<br />
+##3.程序运行（ps：国内用户图片有不显示情况，可以按网上教程修改host或者下载程序包查看image文件夹）<br />
 运行run.py<br />
 模型生成<br />![img.png](./image/img.png) <br />
 模型训练<br />![img_1.png](./img_1.png) <br />
