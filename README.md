@@ -24,7 +24,7 @@ config.json文件：程序运行时所需参数<br />
 模型生成<br />![img.png](./image/img.png) <br />
 模型训练<br />![img_1.png](./image/img_1.png) <br />
 结果输出<br />![img_2.png](./image/img_2.png) <br />
-拾取效果<br />![result2.png](./output/result2.png) <br />
+拾取效果<br />![result2.png](./image/img_3.png) <br />
 
 运行run2.py<br />
-生成不同截图时窗可靠性分析图<br /> ![error.png](./output/error.png) <br />
+生成不同截图时窗可靠性分析图<br /> ![error.png](./image/img_4.png) <br />
