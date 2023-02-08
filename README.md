@@ -21,10 +21,10 @@ config.json文件：程序运行时所需参数<br />
 <br />
 ##3.程序运行（ps：国内用户图片有不显示情况，可以按网上教程修改host或者下载程序包查看image文件夹）<br />
 运行run.py<br />
-模型生成<br />![img_1](./image/img.jpg) <br />
-模型训练<br />![img_2](./image/img_1.jpg) <br />
-结果输出<br />![img_3](./image/img_2.jpg) <br />
-拾取效果<br />![img_4](./image/img_3.png) <br />
+模型生成<br />![img_1](https://github.com/withwu/LSTM-pcikP/blob/main/image/img_1.jpg) <br />
+模型训练<br />![img_2](https://github.com/withwu/LSTM-pcikP/blob/main/image/img_2.jpg) <br />
+结果输出<br />![img_3](https://github.com/withwu/LSTM-pcikP/blob/main/image/img_3.jpg) <br />
+拾取效果<br />![img_4](https://github.com/withwu/LSTM-pcikP/blob/main/image/img_4.png) <br />
 
 运行run2.py<br />
-生成不同截图时窗可靠性分析图<br /> ![img_5](./image/img_4.png) <br />
+生成不同截图时窗可靠性分析图<br /> ![img_5](https://github.com/withwu/LSTM-pcikP/blob/main/image/img_5.png) <br />
